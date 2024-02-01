@@ -1,0 +1,44 @@
+{
+  "id": "4429018",
+  "name": "personal-website",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1898786",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "3506983",
+      "name": "csdn",
+      "font_class": "csdn",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "22148671",
+      "name": "夜间模式",
+      "font_class": "yejianmoshi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "31145672",
+      "name": "light-theme",
+      "font_class": "light-theme",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "36821159",
+      "name": "juejin",
+      "font_class": "juejin",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
